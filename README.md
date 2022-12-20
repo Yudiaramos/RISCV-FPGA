@@ -40,5 +40,5 @@ No projeto, contador binário síncrono (sem atraso) com reset assíncrono (poss
  ![contador](https://user-images.githubusercontent.com/71808184/208688256-41daeffd-705c-4011-af47-eeedec8188e5.png)
  
 ## Contribuidores do projeto
-# Yudi Asano Ramos - NUSP 1873553 https://github.com/Yudiaramos
-# Diogo Barboza de Souza - NUSP 12745657  https://github.com/diogobsouzaa
+### Yudi Asano Ramos - NUSP 1873553 https://github.com/Yudiaramos
+### Diogo Barboza de Souza - NUSP 12745657  https://github.com/diogobsouzaa
